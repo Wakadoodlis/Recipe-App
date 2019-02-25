@@ -14,7 +14,9 @@ Simple recipe application, where You can save your recipes, edit them or delete 
 
 # Quick look at the app:
 
-<img src="Recipies.png" alt="comment section foto" align="center" />
+<img src="Recipies.png" alt="recipies foto" align="center" />
+<img src="recipies2.png" alt="recipies foto" align="center" />
+<img src="recipies3.png" alt="recipies foto" align="center" />
 
 ## Build Setup
 

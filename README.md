@@ -12,6 +12,10 @@ Simple recipe application, where You can save your recipes, edit them or delete 
 - Cycle and output data;
 - Use CRUD and mutch more.
 
+# Quick look at the app:
+
+<img src="Recipies.png" alt="comment section foto" align="center" />
+
 ## Build Setup
 
 ```bash
